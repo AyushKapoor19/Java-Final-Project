@@ -5,10 +5,10 @@
 # Food Waste Reduction Platform
 
 # Group members-
-Ayush Kapoor (041096184) T.L.
-Arshpreet Kaur. (041100889)
-Mohammadfaijan Patel (041103472)
-Kanika kanika (041098684)
+- Ayush Kapoor (041096184) T.L.
+- Arshpreet Kaur. (041100889)
+- Mohammadfaijan Patel (041103472)
+- Kanika kanika (041098684)
 
 
 Contents
