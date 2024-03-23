@@ -1,17 +1,13 @@
-CST8288 - W24
+# CST8288 - W24
 
-FINAL PROJECT (022)
+# FINAL PROJECT (022)
 
-Food Waste Reduction Platform
+# Food Waste Reduction Platform
 
-Group members-
-
+# Group members-
 Ayush Kapoor (041096184) T.L.
-
 Arshpreet Kaur. (041100889)
-
 Mohammadfaijan Patel (041103472)
-
 Kanika kanika (041098684)
 
 
@@ -123,13 +119,22 @@ Evaluators: QA testers, system analysts, and evaluators tasked with reviewing fu
 
 2\. Retailer Inventory Management: Retailers are enabled to monitor their food inventory by adding new items or adjusting quantities.
 
-3\. Identification of Surplus Food: Stores are empowered to designate surplus food they no longer require
+3\. Identification of Surplus Food: Stores are empowered to designate surplus food they no longer require.
+
+4\. Claiming Food Items for Charitable Organizations: To assist people in need, charities can use the additional food that retailers mention.
+
+5\. Updating Inventory: The inventory list in the store is automatically updated when an item is taken or purchased.
+
 
 ## 4.2 Out Scope
 
 1\. Payment Processing: We will not accept real money transactions for purchases.
 
 2\. Advanced Analytics and Reporting: No fancy data analysis features are available.
+
+3\. Supply Chain Management: Our primary focus is not on shipment tracking or supplier management.
+   
+4\. Regulatory Compliance: While we will cover fundamental security, this project will not provide specific legal information.
 
 # Application Architecture
 
