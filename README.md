@@ -160,7 +160,7 @@ Overall, the diagram provides a high-level overview of the steps involved in use
 
 ## 6.2 Inventory Use Case
 
-![A diagram of food waste reduction Description automatically generated](media/0905fd8776c2d4144e0ceda939c5e600.png)
+![6.2 Use Case](Images/6.2%20Use%20Case.png)
 
 The use case diagram depicts the functionality within the Inventory Management System for the Food Waste Reduction Platform. Here's a brief explanation:
 
@@ -178,7 +178,7 @@ The use case diagram depicts the functionality within the Inventory Management S
 
 ## 6.3 Retail Sales Use Case
 
-![A diagram of a food waste reduction platform Description automatically generated](media/5d847e2ef1fa6978b2d98252648859ca.png)
+![6.3 Use Case](Images/6.3%20Use%20Case.png)
 
 The use case diagram for a Retail Sales System within the Food Waste Reduction Platform outlines the interactions between the system and its users for the sales process. Here's a breakdown of the diagram:
 
@@ -194,7 +194,8 @@ In summary, this diagram is detailing the steps involved when a customer interac
 
 ## 6.4 Charitable Organization Use Case
 
-![A diagram of a company Description automatically generated](media/753767e0e91b0f60e8efcb09e6454719.png) The use case diagram titled "Food Waste Reduction Platform Charity Food Claim System" represents the process that a charitable organization would follow to claim food items. Here is a description of the use cases depicted:
+![6.4 Use Case](Images/6.4%20Use%20Case.png)
+The use case diagram titled "Food Waste Reduction Platform Charity Food Claim System" represents the process that a charitable organization would follow to claim food items. Here is a description of the use cases depicted:
 
 1\. Claim Item: This is the central use case around which the other actions revolve. It represents the action of a charitable organization claiming items that retailers have listed as available for donation.
 
@@ -206,7 +207,7 @@ In summary, this diagram is detailing the steps involved when a customer interac
 
 ## 6.5 Surplus Food Alert Use Case
 
-![A diagram of food waste reduction Description automatically generated](media/70db3eb08f573a95d0a10edd31a0306d.png)
+![6.5 Use Case](Images/6.5%20Use%20Case.png)
 
 The use case diagram illustrates the Surplus Food Management System's notification subsystem within the Food Waste Reduction Platform. The diagram describes how users interact with the system to receive notifications about surplus food. Here's a breakdown of each use case:
 
@@ -232,7 +233,7 @@ In this section, we'll focus on one type of UML diagram called the class diagram
 
 ## 7.1 Class diagram
 
-![A diagram of a computer program Description automatically generated](media/88e68a48503abe14cab04e1ffb617144.png)
+![UML](Images/UML.png)
 
 **UserDTO Class:**
 
@@ -348,7 +349,7 @@ In this section, we'll focus on one type of UML diagram called the class diagram
 
 # Data Architecture
 
-![A screenshot of a computer Description automatically generated](media/f8bfbcf1a64268995950ff15a5b46b1d.png)
+![ERD](Images/ERD.png)
 
 The Entity-Relationship Diagram (ERD) provided above shows the data architecture for the Food Waste Reduction Platform. It outlines the database structure, indicating how different entities within the system are related and the nature of these relationships.
 
