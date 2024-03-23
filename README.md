@@ -2,9 +2,9 @@
 
 # FINAL PROJECT (022)
 
-# Food Waste Reduction Platform
+# 🌱 Food Waste Reduction Platform 🌍
 
-# Group members-
+# Group members 🚀 -
 - **Ayush Kapoor** (Team Leader) - 041096184
 - **Arshpreet Kaur** - 041100889
 - **Mohammadfaijan Patel** - 041103472
