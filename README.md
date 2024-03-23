@@ -11,81 +11,57 @@
 - **Kanika Kanika** - 041098684
 
 
-Contents
+# Table of Contents
 
-[Version History](#version-history)
+## Project Overview
+- [Version History](#version-history)
+- [Introduction](#introduction)
+- [Targeted Audience](#targeted-audience)
+- [Scope](#scope)
+  - [In Scope](#41-in-scope)
+  - [Out of Scope](#42-out-scope)
 
-[Introduction](#introduction)
+## System Architecture
+- [Application Architecture](#application-architecture)
+  - [Presentation Layer](#51-presentation-layer)
+  - [Layer of Business](#52-layer-of-business)
+  - [Layer of Database](#53-layer-of-database)
+- [Business Architecture](#business-architecture)
+  - [Login and Registration](#61-login-and-registration)
+  - [Inventory Use Case](#62-inventory-use-case)
+  - [Retail Sales Use Case](#63-retail-sales-use-case)
+  - [Charitable Organization Use Case](#64-charitable-organization-use-case)
+  - [Surplus Food Alert Use Case](#65-surplus-food-alert-use-case)
+  - [Bonus Functionality](#66-bonus-functionality)
+- [Detailed Design](#detailed-design)
+  - [Class Diagram](#71-class-diagram)
 
-[Targeted Audience](#targeted-audience)
+## Data Architecture
+- [Architecture Explanation](#81-architecture-explanation)
+- [Entities and Their Attributes](#82-entities-and-their-attributes)
+- [Relationships](#83-relationships)
 
-[Scope](#scope)
+## Security
+- [Security Architecture](#security-architecture)
+  - [User Authentication](#91-user-authentication)
+  - [User Authorization](#92-user-authorization)
+  - [Data Encryption](#93-data-encryption)
+  - [Data Protection](#94-data-protection)
 
-[4.1 In scope](#41-in-scope)
+## Deployment
+- [Deployment Architecture](#deployment-architecture)
+  - [Infrastructure Components](#101-infrastructure-components)
+  - [Technologies Used](#102-technologies-used)
+  - [Deployment Process](#103-deployment-process)
+  - [Scaling Strategy](#104-scaling-strategy)
 
-[4.2 Out Scope](#42-out-scope)
+## Testing
+- [Testing Model](#testing-model)
+  - [Unit Testing (JUnit)](#111-unit-testing-junit)
+  - [Integration Testing](#112-integration-testing)
 
-[Application Architecture](#application-architecture)
-
-[5.1 Presentation Layer](#51-presentation-layer)
-
-[5.2 Layer of Business](#52-layer-of-business)
-
-[5.3 Layer of Database](#53-layer-of-database)
-
-[Business Architecture](#business-architecture)
-
-[6.1 Login and registration](#61-login-and-registration)
-
-[6.2 Inventory Use Case](#62-inventory-use-case)
-
-[6.3 Retail Sales Use Case](#63-retail-sales-use-case)
-
-[6.4 Charitable Organization Use Case](#64-charitable-organization-use-case)
-
-[6.5 Surplus Food Alert Use Case](#65-surplus-food-alert-use-case)
-
-[6.6 Bonus Functionality](#66-bonus-functionality)
-
-[Detailed Design](#detailed-design)
-
-[7.1 Class diagram](#71-class-diagram)
-
-[Data Architecture](#data-architecture)
-
-[8.1 Architecture Explanation](#81-architecture-explanation)
-
-[8.2 Entities and Their Attributes](#82-entities-and-their-attributes)
-
-[8.3 Relationships](#83-relationships)
-
-[Security Architecture](#security-architecture)
-
-[9.1 User Authentication:](#91-user-authentication)
-
-[9.2 User Authorization](#92-user-authorization)
-
-[9.3 Data Encryption](#93-data-encryption)
-
-[9.4 Data Protection](#94-data-protection)
-
-[Deployment Architecture](#deployment-architecture)
-
-[10.1 Infrastructure Components](#101-infrastructure-components)
-
-[10.2 Technologies Used](#102-technologies-used)
-
-[10.3 Deployment Process](#103-deployment-process)
-
-[10.4 Scaling Strategy](#104-scaling-strategy)
-
-[Testing Model](#testing-model)
-
-[11.1 Unit Testing (Junit)](#111-unit-testing-junit)
-
-[11.2 Integration Testing](#112-integration-testing)
-
-[Acronyms/Abbreviation](#acronymsabbreviation)
+## Other
+- [Acronyms/Abbreviations](#acronymsabbreviation)
 
 
 # Version History
