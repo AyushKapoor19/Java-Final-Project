@@ -132,7 +132,7 @@ As the backbone of the platform, our data layer controls the archiving and retri
 
 ## 6.1 Login and registration
 
-![A diagram of a software company Description automatically generated](media/d249d77a914f06f14bc8019f58350ba6.png)
+![6.1 Use Case](Images/6.1%20Use%20Case.png)
 
 This use case diagram outlines the processes for "Login" and "Registration" on the Food Waste Reduction Platform. Here's an explanation of each part:
 
