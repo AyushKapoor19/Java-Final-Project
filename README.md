@@ -71,7 +71,7 @@
 | 1.0        | Ayush Kapoor          | 22-03-2024  |
 | 1.0        | Arshpreet Kaur        | 22-03-2024  |
 | 1.0        | Mohammadfaijan Patel  | 22-03-2024  |
-| 1.0        | Kanika                | 22-03-2024  |
+| 1.0        | Kanika kanika         | 22-03-2024  |
 
 # Introduction
 
