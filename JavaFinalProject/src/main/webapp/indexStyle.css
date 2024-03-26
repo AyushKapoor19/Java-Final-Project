@@ -1,0 +1,77 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #AEFD6C;
+    background-image: url('last.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: #333;
+}
+
+.container {
+    width: 80%; /* Adjusted width for better responsiveness */
+    max-width: 600px; /* Set maximum width to prevent container from becoming too wide on larger screens */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adjusted box-shadow for better visibility */
+    background-color: #fff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px; /* Increase font size for emphasis */
+    font-weight: bold;
+    color: #007BFF;
+    margin-bottom: 20px; /* Added margin bottom for separation */
+    text-transform: uppercase; /* Convert text to uppercase for added impact */
+    letter-spacing: 2px; /* Add letter-spacing for better readability */
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1); /* Add subtle text shadow for depth */
+}
+
+
+p {
+    margin: 20px 0;
+    line-height: 1.6;
+    font-size: 16px; /* Adjust font size for clarity */
+    color: #555;
+}
+
+.emoji {
+    font-size: 24px;
+    margin-right: 5px;
+}
+
+.links a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.links a:hover {
+    color: #0056b3;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+h3{
+	text-align: left;
+	margin: 20px 20px;
+}
+
+/* Style for the bulleted list */
+.container ul {
+    text-align: left; /* Align list items to the left */
+    margin: 20px 0; /* Add margin for better spacing */
+}
+
+.container li {
+    margin-bottom: 10px; /* Add margin between list items */
+    line-height: 1.4; /* Adjust line height for better readability */
+}
